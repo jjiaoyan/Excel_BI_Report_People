@@ -1,2 +1,2 @@
-# Excel_BI_Report_People
+# People_Analytics_BI_Report
 ![](/data/screenshot.png)
